@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/296130349?s=200&v=4" alt="flolib" width="100">
-</p>
+## Flolibio
 
-<h1 align="center">flolib</h1>
+> Gavin Wu's personal open-source workshop — building handy developer tools.
 
-<p align="center">
-  Building developer tools for modern infrastructure.<br>
-  Open source · Single binary · Zero dependencies
-</p>
+Open source · Practical tools
 
 ---
 
