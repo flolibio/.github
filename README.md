@@ -22,6 +22,8 @@ Practical · Open source · Geek
   </tr>
 </table>
 
+*More tools in the works — stay tuned.*
+
 ## 🛠 Tech Stack
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
