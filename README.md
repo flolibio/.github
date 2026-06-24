@@ -2,7 +2,7 @@
 
 > Gavin Wu's personal open-source workshop — building handy developer tools.
 
-Open source · Practical tools
+Practical · Open source · Geek
 
 ---
 
