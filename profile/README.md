@@ -34,7 +34,6 @@ Practical · Open source · Geek
 ## 📫 Contact
 
 - 🌐 Website: [tailr.flolib.com](https://tailr.flolib.com)
-- 📧 Email: wunamesst@163.com
 - 🐛 Issues: [GitHub Issues](https://github.com/flolibio/tailr/issues)
 
 ---
